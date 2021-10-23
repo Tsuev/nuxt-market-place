@@ -1,4 +1,7 @@
 export default {
+  server: {
+    host: '192.168.0.145' // default: localhost
+  },
   // Global page headers: https://go.nuxtjs.dev/config-head
   head: {
     title: 'just-paper',
